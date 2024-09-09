@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionermium.github.io/sitemap.html.gz
+Sitemap: https://ionermium.github.io/app/sitemap.html.gz
+Sitemap: https://ionermium.github.io/assets/sitemap.html.gz
+Sitemap: https://ionermium.github.io/css/sitemap.html.gz
+Sitemap: https://ionermium.github.io/includes/sitemap.html.gz
+Sitemap: https://ionermium.github.io/item/sitemap.html.gz
+Sitemap: https://ionermium.github.io/src/sitemap.html.gz
